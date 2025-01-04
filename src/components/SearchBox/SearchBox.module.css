@@ -1,0 +1,11 @@
+.search {
+    display: flex;
+    flex-direction: column;
+    width: 320px;
+    gap: 6px;
+    font-size: 22px;
+}
+
+.search input {
+    height: 20px;
+}

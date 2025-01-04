@@ -1,0 +1,22 @@
+.form {
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    padding: 10px;
+    gap: 10px;
+}
+
+.btn {
+    width: 150px;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.error {
+    bottom: 0;
+    font-size: 14px;
+    color: red;
+}
